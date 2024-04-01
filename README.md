@@ -21,6 +21,6 @@ This project is designed to help you practice your skills in HTML and CSS by cre
 
 ## Author
 
-Created by [luifer991] for practice and skill development in HTML and CSS.
+Created by - [Jorge Morales](https://github.com/luifer991) for practice and skill development in HTML and CSS.
 
 Feel free to reach out with any questions or feedback. Thank you for checking out this project!
